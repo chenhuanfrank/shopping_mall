@@ -1,6 +1,6 @@
 
 
-# shopping_mall repo into local env
+# shopping_mall
 echo "# shopping_mall" >> README.md
 git init
 git add README.md
