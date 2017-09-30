@@ -1,9 +1,30 @@
 
-
 # shopping_mall
-echo "# shopping_mall" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/chenhuanfrank/shopping_mall.git
-git push -u origin master
+
+> 包括前端和后端设计，
+
+## 前端
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+## 后端
